@@ -11,3 +11,7 @@ https://wordpress.org/download/
 
 https://wordpress.org/support/article/how-to-install-wordpress/
 
+## Apache
+
+After copying the content of the wordpress folder to **/var/www/wp** I **sudo chown -R www-data:www-data** i.e. the Apache user and group, so wordpress could changed the site's content.
+

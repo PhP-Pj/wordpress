@@ -2,7 +2,7 @@
 
 ## LAMP
 
-Already installed (see README.md in repo INTRO)
+Already installed (see README.md in repo [INTRO](https://github.com/PhP-Pj/Intro/blob/master/README.md))
 
 ## Download
 https://wordpress.org/download/

@@ -1,5 +1,10 @@
 # wordpress
 
+## Generic site under /var/www/wp
+
+admin  
+password see NAS
+
 ## LAMP
 
 Already installed (see README.md in repo [INTRO](https://github.com/PhP-Pj/Intro/blob/master/README.md))

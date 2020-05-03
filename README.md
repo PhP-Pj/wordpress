@@ -11,11 +11,11 @@ Already installed (see README.md in repo [INTRO](https://github.com/PhP-Pj/Intro
 
 ## Download
 
-WordPress (dwonload)[https://wordpress.org/download/]
+WordPress [dwonload](https://wordpress.org/download/)
 
 ## Setup
 
-WordPress (setup)[https://wordpress.org/support/article/how-to-install-wordpress/]
+WordPress [setup](https://wordpress.org/support/article/how-to-install-wordpress/)
 
 ## Apache
 

@@ -11,7 +11,7 @@ Already installed (see README.md in repo [INTRO](https://github.com/PhP-Pj/Intro
 
 ## Download
 
-WordPress [dwonload](https://wordpress.org/download/)
+WordPress [download](https://wordpress.org/download/)
 
 ## Setup
 
